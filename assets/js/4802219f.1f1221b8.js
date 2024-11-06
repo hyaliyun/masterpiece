@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[38851],{18467:(s,e,t)=>{t.r(e),t.d(e,{default:()=>i});t(96540);var u=t(74848);const i=function(){return(0,u.jsx)("img",{src:"./img/docusaurus.svg",alt:"Logo",style:{width:"120px",height:"auto"}})}}}]);
